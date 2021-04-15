@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+a{
+	margin: 15px 5px 0px 10px;
+	float: right;
+}
+
+h1{
+	margin: 25px 0px 15px 15px;
+}
+
+.error{
+		color : red
+}
+
+.login{
+	color : white;
+	background-color : black;
+	padding : 5px 5px 5px 5px;
+}
+
+.regClick{
+	float : left;
+}
+
+table, tr, td {
+	border: 1px solid #D3D3D3;
+	border-collapse: collapse;
+	width: 600px;
+	height: 60px;
+}

@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+a {
+	margin: 15px 5px 0px 10px;
+	float: right;
+}
+
+label{
+	text-align: right; 
+}
+
+h1 {
+	color: gray;
+	margin: 25px 0px 15px 15px;
+}
+
+a:hover{
+	background-color: #ADD8E6;	
+}
+
+a:active {
+	color: red;
+	background-color: yellow;
+}
+
+.registration {
+	background-color: black;
+	color: white;
+}
+
+.error {
+	color: red
+}

@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+h1 {
+	font-size: 25px;
+}
+
+hr {
+	border-color: #D3D3D3;
+	border-width: 0.5px;
+}
+
+h2 {
+	color: gray;
+	font-size: 20px;
+}
+
+table, td {
+	border: 1px solid #D3D3D3;
+	border-collapse: collapse;
+	width: 600px;
+	height: 30px;
+}
